@@ -1,0 +1,12 @@
+{
+  "name": "web404-fallback-vulnerable-app",
+  "version": "1.0.0",
+  "description": "Deliberately insecure Express app for local Nikto scanning practice (WEB404 assignment). Do not deploy publicly.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
